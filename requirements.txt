@@ -1,0 +1,192 @@
+absl-py==2.0.0
+altair==5.1.2
+anyio @ file:///private/tmp/jupyterlab--anyio-20231018-11509-1eu1gxa/anyio-4.0.0
+appdirs==1.4.4
+appnope @ file:///private/tmp/ipython--appnope-20231002-6463-150yxet/appnope-0.1.3
+argon2-cffi @ file:///private/tmp/jupyterlab--argon2-cffi-20231018-11509-1jgd61i/argon2_cffi-23.1.0
+argon2-cffi-bindings @ file:///private/tmp/jupyterlab--argon2-cffi-bindings-20231018-11509-fo6nu9/argon2-cffi-bindings-21.2.0
+arrow @ file:///private/tmp/jupyterlab--arrow-20231018-11509-1nx3r7f/arrow-1.3.0
+asttokens @ file:///private/tmp/ipython--asttokens-20231002-6463-uwydsc/asttokens-2.4.0
+astunparse==1.6.3
+async-lru @ file:///private/tmp/jupyterlab--async-lru-20231018-11509-1ufkpus/async-lru-2.0.4
+attrs @ file:///private/tmp/jupyterlab--attrs-20231018-11509-1v0dzx3/attrs-23.1.0
+Babel @ file:///private/tmp/jupyterlab--babel-20231018-11509-3jt6bx/Babel-2.13.0
+backcall @ file:///private/tmp/ipython--backcall-20231002-6463-1nas1kp/backcall-0.2.0
+beautifulsoup4 @ file:///private/tmp/jupyterlab--beautifulsoup4-20231018-11509-1bg970m/beautifulsoup4-4.12.2
+bleach @ file:///private/tmp/jupyterlab--bleach-20231018-11509-z1oar/bleach-6.1.0
+blinker==1.7.0
+cachetools==5.3.2
+cattrs @ file:///private/tmp/python-lsp-server--cattrs-20231010-7045-12cbyui/cattrs-23.1.2
+certifi @ file:///private/tmp/python-certifi-20231008-5803-12332sz/certifi-2023.7.22
+cffi @ file:///private/tmp/cffi-20231015-5890-1t5aans/cffi-1.16.0
+charset-normalizer @ file:///private/tmp/jupyterlab--charset-normalizer-20231018-11509-1breifj/charset-normalizer-3.3.0
+click==8.1.7
+comm @ file:///private/tmp/jupyterlab--comm-20231018-11509-dlchd6/comm-0.1.4
+contourpy==1.1.1
+cycler==0.12.1
+debugpy @ file:///private/tmp/jupyterlab--debugpy-20231018-11509-113x3qm/debugpy-1.8.0
+decorator @ file:///private/tmp/ipython--decorator-20231002-6463-1n5jfs0/decorator-5.1.1
+defusedxml @ file:///private/tmp/jupyterlab--defusedxml-20231018-11509-7irfek/defusedxml-0.7.1
+docstring-to-markdown @ file:///private/tmp/python-lsp-server--docstring-to-markdown-20231010-7045-2gan0x/docstring-to-markdown-0.12
+executing @ file:///private/tmp/ipython--executing-20231002-6463-1l1lkge/executing-2.0.0
+fastjsonschema @ file:///private/tmp/jupyterlab--fastjsonschema-20231018-11509-n0a6pp/fastjsonschema-2.18.1
+filelock==3.13.1
+flatbuffers==23.5.26
+fonttools==4.43.1
+fqdn @ file:///private/tmp/jupyterlab--fqdn-20231018-11509-m1apga/fqdn-1.5.1
+frozendict==2.3.8
+fsspec==2023.10.0
+gast==0.5.4
+gitdb==4.0.11
+GitPython==3.1.40
+google-auth==2.23.4
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+greenlet==3.0.0
+grpcio==1.59.2
+h5py==3.10.0
+html5lib==1.1
+huggingface-hub==0.17.3
+idna @ file:///private/tmp/jupyterlab--idna-20231018-11509-kgz60m/idna-3.4
+importlib-metadata==6.8.0
+ipykernel @ file:///private/tmp/jupyterlab--ipykernel-20231018-11509-tui0wx/ipykernel-6.25.2
+ipython @ file:///private/tmp/ipython-20231002-6463-415meq/ipython-8.16.1
+ipywidgets==8.1.1
+isoduration @ file:///private/tmp/jupyterlab--isoduration-20231018-11509-b0yym4/isoduration-20.11.0
+jedi @ file:///private/tmp/ipython--jedi-20231002-6463-18p99rb/jedi-0.19.1
+Jinja2 @ file:///private/tmp/jupyterlab--jinja2-20231018-11509-jeqbtq/Jinja2-3.1.2
+joblib==1.3.2
+json5 @ file:///private/tmp/jupyterlab--json5-20231018-11509-10eygww/json5-0.9.14
+jsonpointer @ file:///private/tmp/jupyterlab--jsonpointer-20231018-11509-184t8wv/jsonpointer-2.4
+jsonschema @ file:///private/tmp/jupyterlab--jsonschema-20231018-11509-myhjkg/jsonschema-4.19.1
+jsonschema-specifications @ file:///private/tmp/jupyterlab--jsonschema-specifications-20231018-11509-e9pnbf/jsonschema_specifications-2023.7.1
+jupyter-console @ file:///private/tmp/jupyterlab--jupyter-console-20231018-11509-d6ouo0/jupyter_console-6.6.3
+jupyter-events @ file:///private/tmp/jupyterlab--jupyter-events-20231018-11509-jzmykj/jupyter_events-0.8.0
+jupyter-lsp @ file:///private/tmp/jupyterlab--jupyter-lsp-20231018-11509-3lmxrv/jupyter-lsp-2.2.0
+jupyter_client @ file:///private/tmp/jupyterlab--jupyter-client-20231018-11509-qx8jum/jupyter_client-8.4.0
+jupyter_core @ file:///private/tmp/jupyterlab--jupyter-core-20231018-11509-sztfzl/jupyter_core-5.4.0
+jupyter_server @ file:///private/tmp/jupyterlab--jupyter-server-20231018-11509-f6g6ao/jupyter_server-2.8.0
+jupyter_server_terminals @ file:///private/tmp/jupyterlab--jupyter-server-terminals-20231018-11509-az57m3/jupyter_server_terminals-0.4.4
+jupyterlab @ file:///private/tmp/jupyterlab-20231018-11509-oxyncx/jupyterlab-4.0.7
+jupyterlab-pygments @ file:///private/tmp/jupyterlab--jupyterlab-pygments-20231018-11509-jyf1qc/jupyterlab_pygments-0.2.2
+jupyterlab-widgets==3.0.9
+jupyterlab_server @ file:///private/tmp/jupyterlab--jupyterlab-server-20231018-11509-dn7nhr/jupyterlab_server-2.25.0
+keras==2.14.0
+kiwisolver==1.4.5
+libclang==16.0.6
+lsprotocol @ file:///private/tmp/python-lsp-server--lsprotocol-20231010-7045-susxas/lsprotocol-2023.0.0b1
+lxml==4.9.3
+Markdown==3.5.1
+markdown-it-py==3.0.0
+MarkupSafe @ file:///private/tmp/jupyterlab--markupsafe-20231018-11509-t330k9/MarkupSafe-2.1.3
+matplotlib==3.8.1
+matplotlib-inline @ file:///private/tmp/ipython--matplotlib-inline-20231002-6463-1oscy71/matplotlib-inline-0.1.6
+mdurl==0.1.2
+mistune @ file:///private/tmp/jupyterlab--mistune-20231018-11509-kwn8gj/mistune-3.0.2
+ml-dtypes==0.2.0
+multitasking==0.0.11
+mwclient==0.10.1
+nbclient @ file:///private/tmp/jupyterlab--nbclient-20231018-11509-1e8tdp8/nbclient-0.8.0
+nbconvert @ file:///private/tmp/jupyterlab--nbconvert-20231018-11509-1zmp36/nbconvert-7.9.2
+nbformat @ file:///private/tmp/jupyterlab--nbformat-20231018-11509-i48tx8/nbformat-5.9.2
+nest-asyncio @ file:///private/tmp/jupyterlab--nest-asyncio-20231018-11509-1mga0bk/nest_asyncio-1.5.8
+notebook @ file:///private/tmp/jupyterlab--notebook-20231018-11509-13duql9/notebook-7.0.6
+notebook_shim @ file:///private/tmp/jupyterlab--notebook-shim-20231018-11509-19rm6a0/notebook_shim-0.2.3
+numpy==1.26.1
+oauthlib==3.2.2
+opt-einsum==3.3.0
+overrides @ file:///private/tmp/jupyterlab--overrides-20231018-11509-16dhfn5/overrides-7.4.0
+packaging @ file:///private/tmp/python-packaging-20231018-5901-huh5q4/packaging-23.2
+pandas==2.1.2
+pandas-datareader==0.10.0
+pandocfilters @ file:///private/tmp/jupyterlab--pandocfilters-20231018-11509-b8f8xw/pandocfilters-1.5.0
+parso @ file:///private/tmp/ipython--parso-20231002-6463-ygsg4h/parso-0.8.3
+peewee==3.17.0
+pexpect @ file:///private/tmp/ipython--pexpect-20231002-6463-10qysbg/pexpect-4.8.0
+pickleshare @ file:///private/tmp/ipython--pickleshare-20231002-6463-xfvzpq/pickleshare-0.7.5
+Pillow==10.1.0
+platformdirs @ file:///private/tmp/jupyterlab--platformdirs-20231018-11509-nlwt2e/platformdirs-3.11.0
+playwright==1.39.0
+pluggy @ file:///private/tmp/python-lsp-server--pluggy-20231010-7045-1ck83y9/pluggy-1.3.0
+prometheus-client @ file:///private/tmp/jupyterlab--prometheus-client-20231018-11509-1s2hpht/prometheus_client-0.17.1
+prompt-toolkit @ file:///private/tmp/ipython--prompt-toolkit-20231002-6463-g6asjm/prompt_toolkit-3.0.39
+protobuf==4.23.4
+psutil @ file:///private/tmp/python-psutil-20231015-5790-1i8kq9n/psutil-5.9.6
+ptyprocess @ file:///private/tmp/ipython--ptyprocess-20231002-6463-1n1z6zm/ptyprocess-0.7.0
+pure-eval @ file:///private/tmp/ipython--pure-eval-20231002-6463-80cgfn/pure_eval-0.2.2
+pyarrow==14.0.1
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser @ file:///private/tmp/pycparser-20231013-5647-12y5m5s/pycparser-2.21
+pydeck==0.8.1b0
+pyee==11.0.1
+Pygments @ file:///private/tmp/pygments-20231008-5873-nyquq6/Pygments-2.16.1
+pylsp-mypy @ file:///private/tmp/python-lsp-server--pylsp-mypy-20231010-7045-txebbl/pylsp-mypy-0.6.7
+pylsp-rope @ file:///private/tmp/python-lsp-server--pylsp-rope-20231010-7045-1khsfrh/pylsp-rope-0.1.11
+pyparsing==3.1.1
+python-dateutil @ file:///private/tmp/jupyterlab--python-dateutil-20231018-11509-ryk5we/python-dateutil-2.8.2
+python-json-logger @ file:///private/tmp/jupyterlab--python-json-logger-20231018-11509-1qv30km/python-json-logger-2.0.7
+python-lsp-black @ file:///private/tmp/python-lsp-server--python-lsp-black-20231010-7045-1k5onnb/python-lsp-black-1.3.0
+python-lsp-jsonrpc @ file:///private/tmp/python-lsp-server--python-lsp-jsonrpc-20231010-7045-1wid3qb/python-lsp-jsonrpc-1.1.2
+python-lsp-ruff @ file:///private/tmp/python-lsp-server--python-lsp-ruff-20231010-7045-1nf4ggq/python-lsp-ruff-1.5.2
+python-lsp-server @ file:///private/tmp/python-lsp-server-20231010-7045-ntdrl9/python-lsp-server-1.8.2
+pytoolconfig @ file:///private/tmp/python-lsp-server--pytoolconfig-20231010-7045-iqonxu/pytoolconfig-1.2.5
+pytz==2023.3.post1
+PyYAML @ file:///private/tmp/pyyaml-20231019-6030-1l8rk6l/PyYAML-6.0.1
+pyzmq @ file:///private/tmp/jupyterlab--pyzmq-20231018-11509-1y13n94/pyzmq-25.1.1
+referencing @ file:///private/tmp/jupyterlab--referencing-20231018-11509-1sl93qq/referencing-0.30.2
+regex==2023.10.3
+requests @ file:///private/tmp/jupyterlab--requests-20231018-11509-ara3nk/requests-2.31.0
+requests-oauthlib==1.3.1
+rfc3339-validator @ file:///private/tmp/jupyterlab--rfc3339-validator-20231018-11509-4age30/rfc3339_validator-0.1.4
+rfc3986-validator @ file:///private/tmp/jupyterlab--rfc3986-validator-20231018-11509-1rdhnlh/rfc3986_validator-0.1.1
+rich==13.6.0
+rope @ file:///private/tmp/python-lsp-server--rope-20231010-7045-12u6vk0/rope-1.10.0
+rpds-py @ file:///private/tmp/jupyterlab--rpds-py-20231018-11509-14hcxyh/rpds_py-0.10.6
+rsa==4.9
+safetensors==0.4.0
+scikit-learn==1.3.2
+scipy==1.11.3
+Send2Trash @ file:///private/tmp/jupyterlab--send2trash-20231018-11509-18ti7h9/Send2Trash-1.8.2
+six==1.16.0
+smmap==5.0.1
+sniffio @ file:///private/tmp/jupyterlab--sniffio-20231018-11509-ne7m46/sniffio-1.3.0
+soupsieve @ file:///private/tmp/jupyterlab--soupsieve-20231018-11509-dsz56z/soupsieve-2.5
+stack-data @ file:///private/tmp/ipython--stack-data-20231002-6463-1dka3k4/stack_data-0.6.3
+streamlit==1.28.1
+tenacity==8.2.3
+tensorboard==2.14.1
+tensorboard-data-server==0.7.2
+tensorflow==2.14.0
+tensorflow-estimator==2.14.0
+tensorflow-io-gcs-filesystem==0.34.0
+termcolor==2.3.0
+terminado @ file:///private/tmp/jupyterlab--terminado-20231018-11509-1tc0yg8/terminado-0.17.1
+threadpoolctl==3.2.0
+tinycss2 @ file:///private/tmp/jupyterlab--tinycss2-20231018-11509-1gjabsl/tinycss2-1.2.1
+tokenizers==0.14.1
+toml==0.10.2
+toolz==0.12.0
+tornado @ file:///private/tmp/jupyterlab--tornado-20231018-11509-cnw7oq/tornado-6.3.3
+tqdm==4.66.1
+traitlets @ file:///private/tmp/ipython--traitlets-20231002-6463-124m8qk/traitlets-5.10.1
+transformers==4.34.1
+types-python-dateutil @ file:///private/tmp/jupyterlab--types-python-dateutil-20231018-11509-1sclaq2/types-python-dateutil-2.8.19.14
+typing_extensions==4.8.0
+tzdata==2023.3
+tzlocal==5.2
+ujson @ file:///private/tmp/python-lsp-server--ujson-20231010-7045-17vuw1l/ujson-5.8.0
+uri-template @ file:///private/tmp/jupyterlab--uri-template-20231018-11509-1gjlyte/uri-template-1.3.0
+urllib3 @ file:///private/tmp/jupyterlab--urllib3-20231018-11509-180jw06/urllib3-2.0.7
+validators==0.22.0
+wcwidth @ file:///private/tmp/ipython--wcwidth-20231002-6463-nnqe2j/wcwidth-0.2.8
+webcolors @ file:///private/tmp/jupyterlab--webcolors-20231018-11509-183i9hq/webcolors-1.13
+webencodings @ file:///private/tmp/jupyterlab--webencodings-20231018-11509-1ua77cp/webencodings-0.5.1
+websocket-client @ file:///private/tmp/jupyterlab--websocket-client-20231018-11509-1vmwj4d/websocket-client-1.6.4
+websockets @ file:///private/tmp/python-lsp-server--websockets-20231010-7045-9k9qki/websockets-11.0.3
+Werkzeug==3.0.1
+widgetsnbextension==4.0.9
+wrapt==1.14.1
+xgboost==2.0.1
+yfinance==0.2.31
+zipp==3.17.0
